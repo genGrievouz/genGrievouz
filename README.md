@@ -2,7 +2,7 @@
 - 👀 I’m interested in killing Kenobi.
 - 🌱 I’m currently learning how to slay all jedi.
 - 💞️ I’m looking to collaborate on order 66.
-- 📫 How to reach me on Utapau.
+- 📫 Reach me on Utapau.
 
 <!---
 genGrievouz/genGrievouz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
